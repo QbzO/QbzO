@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @QbzO
+- 👋 Hi, I’m @QbzQ
 - 👀 I’m interested in science in general, but especially in new tech/innovation
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on stuff that helps in medical fields
 - ⚡ Fun fact: I can move my ears
 
